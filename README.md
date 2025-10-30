@@ -15,3 +15,4 @@
 
 未来改进方向：加个动画，加上9轴传感器，或者蓝牙，WIFI等，实现更多的智能功能
 Commit 1 line
+Commit 2 line
